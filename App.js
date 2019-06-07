@@ -24,7 +24,7 @@ class DetailsScreen extends React.Component {
           Nome: xxxxxxx
               Matricula: xxxxxx
               link para o github com este código:
-              https://github.com/GuiSampaio/react-native-app.git
+              https://github.com/xxxxx/react-native-app.git
               </Text>
         <Button
           title="Voltar"
