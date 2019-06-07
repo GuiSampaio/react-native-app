@@ -21,8 +21,8 @@ class DetailsScreen extends React.Component {
     return (
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
         <Text>
-          Nome: Guilherme Sampaio
-              Matricula: 0050014286
+          Nome: xxxxxxx
+              Matricula: xxxxxx
               link para o github com este código:
               https://github.com/GuiSampaio/react-native-app.git
               </Text>
